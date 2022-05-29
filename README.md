@@ -8,3 +8,6 @@ Site about Ridley Scott's science fiction film "Alien" and all its franchises.
 
 
 <img width="1728" alt="Снимок экрана 2022-05-29 в 12 21 15" src="https://user-images.githubusercontent.com/85338339/170865496-fd706601-64b4-44be-8328-d4230b7761d6.png">
+
+
+<img width="1728" alt="Снимок экрана 2022-05-29 в 12 19 45" src="https://user-images.githubusercontent.com/85338339/170865615-e556e099-68e1-4f2b-a6c5-8764a3197420.png">
